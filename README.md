@@ -1,5 +1,7 @@
 # SharpOS
 
+[![Join the chat at https://gitter.im/MichaelTheShifter/sharpos](https://badges.gitter.im/MichaelTheShifter/sharpos.svg)](https://gitter.im/MichaelTheShifter/sharpos?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 SharpOS is a lightweight DOS-like operating system built using C# and COSMOS.
 
 ## Goals
